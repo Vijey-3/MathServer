@@ -123,6 +123,7 @@ urlpatterns = [
     path('squarearea/',views.squarearea,name="squarearea"),
     path('',views.squarearea,name="squarearea")
 ]
+```
 
 
 ## SERVER SIDE PROCESSING:
